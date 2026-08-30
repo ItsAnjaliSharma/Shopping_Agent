@@ -1,0 +1,6 @@
+{
+  "name": "PriceHawk - Real-Time Multi-Retailer Shopping Agent",
+  "description": "An intelligent AI shopping agent that compares prices, stock, shipping, coupons, and deals across major retailers in real-time with live web search grounding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
